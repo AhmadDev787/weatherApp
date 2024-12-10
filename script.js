@@ -1,5 +1,5 @@
 
-const key = "10a54e03edb1332a0265bd9690f236f9";
+const key = "Your_Key";
 let btn = document.getElementById("search_btn");
 btn.addEventListener("click", (e) => {
     e.preventDefault();
